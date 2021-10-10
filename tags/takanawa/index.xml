@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>takanawa on Tokyo, endless city</title>
+    <link>/tags/takanawa/</link>
+    <description>Recent content in takanawa on Tokyo, endless city</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 14 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/takanawa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sunny Minato</title>
+      <link>/posts/sunny_minato/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/sunny_minato/</guid>
+      <description>It is interesting to see how many of the buildings around Tokyo Tower are not as tall as you might expect. Here, looking closer along Sakurada-dori south through Minato City towards Takanawa, the apartment and business buildings seem to rise as they get further away. It may not be deliberate, but it does have the happy consequence of making for many wonderful views from the Tower.
+It was a lovely sunny day when I took this, making me want to join the pedestrians down on the sunlit pavement.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

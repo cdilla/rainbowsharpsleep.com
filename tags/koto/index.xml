@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>koto on Tokyo, endless city</title>
+    <link>/tags/koto/</link>
+    <description>Recent content in koto on Tokyo, endless city</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/koto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blue Horizons</title>
+      <link>/posts/blue-horizons/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/blue-horizons/</guid>
+      <description>Looking south over Sumida and Koto wards from the Skytree on an almost cloudless April morning over countless homes and businesses all the way to the Tokyo Gate Bridge and Haneda Airport and the highrise cluster of Chuo City. It looks vast, and yet is still only a small slice of the whole of Tokyo.
+Below, in the long thin Sumida River Park where I had just walked, are chaperoned tribes of colourfully hatted kindergarten classes playing, and old men quietly fishing in a fragment of an old canal.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

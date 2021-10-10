@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>night on Tokyo, endless city</title>
+    <link>/tags/night/</link>
+    <description>Recent content in night on Tokyo, endless city</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/night/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shibuya in the rain</title>
+      <link>/posts/shibuya-in-the-rain/</link>
+      <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/shibuya-in-the-rain/</guid>
+      <description>The night time city is always aglow with its endless neon (or more likely LED) lights, but when it rains the streets are covered with rivers of reflected lights that are quite otherworldly. The Shibuya Scramble Crossing is always a special place to be, but at night in a quiet warm rain with my combini umbrella there are few other places I would rather be.</description>
+      
+    </item>
+    
+    <item>
+      <title>Government</title>
+      <link>/posts/government/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/government/</guid>
+      <description>There are few words less interesting to me than the title of this post. However, having been based in West Shinjuku on my first stay in Tokyo I soon warmed to the magnificent Metropolitan Government Building there. It looks majestic during the day and stunning at night. Combined with the twin viewing platforms at the top of each tower, a very nice cafe, excellent restaurant and a useful tourist information centre, it is one place I enjoy returning to.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>roppongi on Tokyo, endless city</title>
+    <link>/tags/roppongi/</link>
+    <description>Recent content in roppongi on Tokyo, endless city</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/roppongi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mori Tower</title>
+      <link>/posts/mori-from-tokyo/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/mori-from-tokyo/</guid>
+      <description>The Roppongi Hills Mori Tower is an amazing complex with one of the best observation decks in Tokyo. This photograph of the top dozen floors or so was taken from Tokyo Tower, and if you look at the full size image you can see people behind the windows of the 52nd floor looking back at you.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

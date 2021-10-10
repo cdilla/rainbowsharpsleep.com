@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>mita on Tokyo, endless city</title>
+    <link>/tags/mita/</link>
+    <description>Recent content in mita on Tokyo, endless city</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/mita/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meguro Housing Complex</title>
+      <link>/posts/meguro-housing-complex/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/meguro-housing-complex/</guid>
+      <description>There are a seemingly infinite variety of housing projects in Tokyo that are each fascinating and captivating in their design and detail. It would be nice to see some from the inside one day. This one, in Meguro Ward, is as seen from the Ebisu Garden Place, a landmark which has a great platform from which to view the four Wards of Minato, Shibuya, Shinagawa and Meguro.</description>
+      
+    </item>
+    
+    <item>
+      <title>The Living City</title>
+      <link>/posts/living-city/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/living-city/</guid>
+      <description>This photograph, looking over Minato city, shows in microcosm, the complexity of Tokyo. It does not take long, witnessing scenes like this, to feel that the city is a living entity.
+Remember you can right click on the image to access it full size - something I especially recommend for photographs like this one.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

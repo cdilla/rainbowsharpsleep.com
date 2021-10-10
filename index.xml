@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tokyo, endless city</title>
+    <link>/</link>
+    <description>Recent content on Tokyo, endless city</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>/posts/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I have long had a love of big cities and of those I have visited Tokyo has the strongest attraction. From the brightest neon lit street to the dimmest alleyway corner, and the tallest skyscraper to smallest cabin, from the largest work of public art to the design on a manhole cover, and the newest shiniest gadget to the rustiest abandoned bike, Tokyo has an endless fascination for me.
+RainbowSharpSleep is a means for me to record and share a small portion of what I see and photograph during my all too brief stays in wonderful Tokyo.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

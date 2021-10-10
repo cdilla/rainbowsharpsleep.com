@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>sakura on Tokyo, endless city</title>
+    <link>/tags/sakura/</link>
+    <description>Recent content in sakura on Tokyo, endless city</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/sakura/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sakura Waters</title>
+      <link>/posts/sakura-waters/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/sakura-waters/</guid>
+      <description>There is something almost overwhelming about the quantity of all things sakura in Tokyo. How can the most urban of cities find room for so many cherry trees? How can each tree put forth so many flowers? How can you not be awed at blizzards of pink petals in the air around you, and carpets of pink at your feet and in the city waterways. Here are a few petals on some still waters in the Sumida River Park.</description>
+      
+    </item>
+    
+    <item>
+      <title>Dancers in the park</title>
+      <link>/posts/dancers-in-the-park/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/dancers-in-the-park/</guid>
+      <description>Tokyo has a wonderful array of public art, from tiny utility hole covers to, well, Godzilla sized pieces.
+I came across this slender and graceful piece in the small Hamachō park beside the Sumida river during Hanami season.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

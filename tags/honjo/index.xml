@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>honjo on Tokyo, endless city</title>
+    <link>/tags/honjo/</link>
+    <description>Recent content in honjo on Tokyo, endless city</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/honjo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pink, white and blue</title>
+      <link>/posts/pink-white-and-blue/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/pink-white-and-blue/</guid>
+      <description>This office block in Sumida City caught my eye, the very man made colour framed by the pink, white and blue of nature.
+It overlooks the Sumida River Park, a very pleasant long thin park whose pathways mark the boundary between many of the eastern and western districts of Sumida ward.</description>
+      
+    </item>
+    
+    <item>
+      <title>Sakura Waters</title>
+      <link>/posts/sakura-waters/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/sakura-waters/</guid>
+      <description>There is something almost overwhelming about the quantity of all things sakura in Tokyo. How can the most urban of cities find room for so many cherry trees? How can each tree put forth so many flowers? How can you not be awed at blizzards of pink petals in the air around you, and carpets of pink at your feet and in the city waterways. Here are a few petals on some still waters in the Sumida River Park.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

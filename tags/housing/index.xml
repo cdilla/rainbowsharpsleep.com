@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>housing on Tokyo, endless city</title>
+    <link>/tags/housing/</link>
+    <description>Recent content in housing on Tokyo, endless city</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/housing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meguro Housing Complex</title>
+      <link>/posts/meguro-housing-complex/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/meguro-housing-complex/</guid>
+      <description>There are a seemingly infinite variety of housing projects in Tokyo that are each fascinating and captivating in their design and detail. It would be nice to see some from the inside one day. This one, in Meguro Ward, is as seen from the Ebisu Garden Place, a landmark which has a great platform from which to view the four Wards of Minato, Shibuya, Shinagawa and Meguro.</description>
+      
+    </item>
+    
+    <item>
+      <title>Borderlands</title>
+      <link>/posts/borderlands/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/borderlands/</guid>
+      <description>I am fascinated by the borderlands where nature begins to take back the works of man. In this photograph taken in Minamisenju at the south end of Arakawa City, nature seems to have approached from the right and is washing against the shores of human activity on the left.</description>
+      
+    </item>
+    
+    <item>
+      <title>Tokyo Ramshackle</title>
+      <link>/posts/tokyo-ramshackle/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/tokyo-ramshackle/</guid>
+      <description>Whilst much of Tokyo is new and shiny, there are still countless little, old, and rundown buildings to be seen whenever you step off the main business and tourist areas. Each one is brimming with character and a history one can only guess at.
+I particularly like ones like this one, at the northern edge of Minowa, that appears to be being propped up by the more modern and robust buildings either side.</description>
+      
+    </item>
+    
+    <item>
+      <title>Arakawa home</title>
+      <link>/posts/arakawa-home/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/arakawa-home/</guid>
+      <description>Not all buildings in Tokyo are big, bright and new. Some homes, stores and businesses really are from a different age, and it is suprising how little distance you have to travel to find them.
+This is an example from Arakawa.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

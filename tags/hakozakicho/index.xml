@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hakozakicho on Tokyo, endless city</title>
+    <link>/tags/hakozakicho/</link>
+    <description>Recent content in hakozakicho on Tokyo, endless city</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/hakozakicho/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Roads and Skylines</title>
+      <link>/posts/roads-and-skylines/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/roads-and-skylines/</guid>
+      <description>This photograph was taken looking south towards Shinkawa towards the end of the day. The red brickwork is part of the Royal Park Hotel.
+I love the way layer upon layer of high rise buildings jostle for a place in the sky, presenting a line far more complex than the most intricate key, and just as unique. From every one of countless windows there is a different and individual skyline.</description>
+      
+    </item>
+    
+    <item>
+      <title>Dawn over Nihonbashi Hakozaki-cho</title>
+      <link>/posts/dawn-over-nihonbashihakozakicho/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/dawn-over-nihonbashihakozakicho/</guid>
+      <description>There must be three dozen different buildings visible in this tiny sliver of Tokyo looking south west over Nihonbashi Hakozaki-cho. Each has its own architecture, scale and texture, standing on its own uniquely shaped plot of land. It was dawn on an April weekday when this was taken and most of these buildings were filling up with daily commuters as they began their working day.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

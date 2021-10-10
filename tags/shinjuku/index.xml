@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>shinjuku on Tokyo, endless city</title>
+    <link>/tags/shinjuku/</link>
+    <description>Recent content in shinjuku on Tokyo, endless city</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/shinjuku/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Government</title>
+      <link>/posts/government/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/government/</guid>
+      <description>There are few words less interesting to me than the title of this post. However, having been based in West Shinjuku on my first stay in Tokyo I soon warmed to the magnificent Metropolitan Government Building there. It looks majestic during the day and stunning at night. Combined with the twin viewing platforms at the top of each tower, a very nice cafe, excellent restaurant and a useful tourist information centre, it is one place I enjoy returning to.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

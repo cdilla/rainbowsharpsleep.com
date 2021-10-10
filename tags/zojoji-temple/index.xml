@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>zojoji temple on Tokyo, endless city</title>
+    <link>/tags/zojoji-temple/</link>
+    <description>Recent content in zojoji temple on Tokyo, endless city</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/zojoji-temple/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Looking down on Zojoji</title>
+      <link>/posts/zojojitemple/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/zojojitemple/</guid>
+      <description>The viewing platform at Tokyo Tower provides an excellent opportunity to look down on the magnificent Zojoji Temple complex. Taken at the end of 2020, and a few days before I was standing in the Temple on a subzero New Years Eve, this is a view from just before the world changed and the travel options we so much took for granted were taken away. The narrow road on the left is a familiar route for me, being my approach of choice to the iconic Tokyo Tower.</description>
+      
+    </item>
+    
+    <item>
+      <title>Wall Tiles</title>
+      <link>/posts/wall-tiles/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/wall-tiles/</guid>
+      <description>One of the more fascinating details of traditional Japanese buildings are their roof tiles. Often they are too high to get up close and really see the detail, but here, topping a section of wide wall around the Zojoji temple grounds near the Tokyo Tower, they are low enough to touch.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

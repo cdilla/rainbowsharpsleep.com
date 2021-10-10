@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ningyocho on Tokyo, endless city</title>
+    <link>/tags/ningyocho/</link>
+    <description>Recent content in ningyocho on Tokyo, endless city</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 14 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/ningyocho/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ningyocho Night Bars</title>
+      <link>/posts/ningyocho-nighttime/</link>
+      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ningyocho-nighttime/</guid>
+      <description>There is something wonderful about the bright neon lights and other signs that beckon you into darkened doorways on streets all around Tokyo. They often appear intimidating, especially for those without any Japanses language skills, but I have never had a bad experience and always found both the staff and clientel to be welcoming and friendly. This is a short stretch of a small street in Ningyocho.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>midori on Tokyo, endless city</title>
+    <link>/tags/midori/</link>
+    <description>Recent content in midori on Tokyo, endless city</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/midori/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tree and Skytree</title>
+      <link>/posts/tree-and-skytree/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/tree-and-skytree/</guid>
+      <description>The Tokyo Skytree is visible for much of the length of the long and thin Sumida River Park. A very pleasant park on a cool spring morning.
+At this point the east (right hand) half of the park is in Kotobashi and the west side is in Midori. You can weave in and out of a dozen different districts as you walk along its winding paths.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

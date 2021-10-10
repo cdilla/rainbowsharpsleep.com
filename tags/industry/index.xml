@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>industry on Tokyo, endless city</title>
+    <link>/tags/industry/</link>
+    <description>Recent content in industry on Tokyo, endless city</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/industry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Industry and Smokestacks</title>
+      <link>/posts/industry-and-smokestacks/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/industry-and-smokestacks/</guid>
+      <description>It is easy to forget that Tokyo has industial areas when you stay within the approximate confines of the Yamanote line. But just an hour south east of Tokyo central are scenes like these in Ukishimacho in Kawasaki ward. In this case visible from my flight into Haneda airport.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

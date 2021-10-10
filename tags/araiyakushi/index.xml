@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>araiyakushi on Tokyo, endless city</title>
+    <link>/tags/araiyakushi/</link>
+    <description>Recent content in araiyakushi on Tokyo, endless city</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/araiyakushi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crossings</title>
+      <link>/posts/rail-crossing/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/rail-crossing/</guid>
+      <description>One of my favourite sounds in Tokyo is the sound of a level crossing. Just adjacent to Araiyakushi Mae station in the early morning people are making their way to work and school across the tracks. Many have just alighted from the departing ever-punctual train. The trains in Tokyo really are a wonder. We had just finished a three train journey across Tokyo during a Friday morning rush hour, and despite the sheer number of people, it never felt overcrowded or uncomfortable</description>
+      
+    </item>
+    
+    <item>
+      <title>Kebab Shop</title>
+      <link>/posts/kebab-shop/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/kebab-shop/</guid>
+      <description>There is so much of Tokyo in this tiny scene. The utility poles, the narrow roads, the even narrower buildings, a temple, vending machines, a combini, bicycles and a bright, but this time sadly closed, a bright shop selling hot food to take away. Perfection.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

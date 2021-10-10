@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>yaesu on Tokyo, endless city</title>
+    <link>/tags/yaesu/</link>
+    <description>Recent content in yaesu on Tokyo, endless city</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/yaesu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cute Door</title>
+      <link>/posts/cute_door/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/cute_door/</guid>
+      <description>I am not enamoured of all things kawaii, but there is something intriguing about a door like this. One has to wonder what lies behind. Perhaps I have been watching too many Ghibli movies. This door was beside the Sumikko Gurashi store along 1st Avenue in the underground shopping mall of Tokyo Station on the Yaesu side.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

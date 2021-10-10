@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>scramble crossing on Tokyo, endless city</title>
+    <link>/tags/scramble-crossing/</link>
+    <description>Recent content in scramble crossing on Tokyo, endless city</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/scramble-crossing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shibuya in the rain</title>
+      <link>/posts/shibuya-in-the-rain/</link>
+      <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/shibuya-in-the-rain/</guid>
+      <description>The night time city is always aglow with its endless neon (or more likely LED) lights, but when it rains the streets are covered with rivers of reflected lights that are quite otherworldly. The Shibuya Scramble Crossing is always a special place to be, but at night in a quiet warm rain with my combini umbrella there are few other places I would rather be.</description>
+      
+    </item>
+    
+    <item>
+      <title>Hachiko</title>
+      <link>/posts/hachiko/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hachiko/</guid>
+      <description>The statue of the loyal dog, Hachiko, is probably the busiest meeting place in Tokyo. Outside Shibuya Station and next to the Scramble Crossing it is almost always heaving with locals waiting for friends and tourists posing for photos and touching his paw to ensure their wish to return to Tokyo is fulfilled.
+This photograph was taken on a rare occasion when the area was fenced off for a ceremony.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
