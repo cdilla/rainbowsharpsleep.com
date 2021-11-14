@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>shop on Tokyo, endless city</title>
+    <link>/tags/shop/</link>
+    <description>Recent content in shop on Tokyo, endless city</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/shop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lucky Shutters</title>
+      <link>/posts/luckyshutters/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/luckyshutters/</guid>
+      <description>The shutters drawn down over this tradional Japanese sweet shop depict the Seven Gods of Fortune that are said to bestow longevity, fortune, popularity, sincerity, kindness, dignity, and magnanimity.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

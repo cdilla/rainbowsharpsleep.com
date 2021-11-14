@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Tokyo, endless city</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>district</title>
       <link>/categories/district/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/district/</guid>
       <description></description>
@@ -24,9 +24,29 @@
     <item>
       <title>path</title>
       <link>/categories/path/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/path/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>landmark</title>
+      <link>/categories/landmark/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/landmark/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>node</title>
+      <link>/categories/node/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/node/</guid>
       <description></description>
       
     </item>
@@ -37,26 +57,6 @@
       <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/edge/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>landmark</title>
-      <link>/categories/landmark/</link>
-      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/landmark/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>node</title>
-      <link>/categories/node/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/node/</guid>
       <description></description>
       
     </item>

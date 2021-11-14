@@ -6,10 +6,150 @@
     <description>Recent content in Tags on Tokyo, endless city</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>building</title>
+      <link>/tags/building/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/building/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>chiyoda</title>
+      <link>/tags/chiyoda/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/chiyoda/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>marunouchi</title>
+      <link>/tags/marunouchi/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/marunouchi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>tokyo station</title>
+      <link>/tags/tokyo-station/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tokyo-station/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>cafe</title>
+      <link>/tags/cafe/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cafe/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>minato</title>
+      <link>/tags/minato/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/minato/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>shibakoen</title>
+      <link>/tags/shibakoen/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/shibakoen/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>tokyo tower</title>
+      <link>/tags/tokyo-tower/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tokyo-tower/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>chuo</title>
+      <link>/tags/chuo/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/chuo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>kakigaracho</title>
+      <link>/tags/kakigaracho/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/kakigaracho/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ningyocho</title>
+      <link>/tags/ningyocho/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ningyocho/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>restaurant</title>
+      <link>/tags/restaurant/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/restaurant/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>shop</title>
+      <link>/tags/shop/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/shop/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>nihonbashi</title>
+      <link>/tags/nihonbashi/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nihonbashi/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>araiyakushi</title>
@@ -47,16 +187,6 @@
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/transport/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>building</title>
-      <link>/tags/building/</link>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/building/</guid>
       <description></description>
       
     </item>
@@ -132,26 +262,6 @@
     </item>
     
     <item>
-      <title>minato</title>
-      <link>/tags/minato/</link>
-      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/minato/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>shibakoen</title>
-      <link>/tags/shibakoen/</link>
-      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/shibakoen/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>skytree</title>
       <link>/tags/skytree/</link>
       <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
@@ -162,41 +272,11 @@
     </item>
     
     <item>
-      <title>tokyo tower</title>
-      <link>/tags/tokyo-tower/</link>
-      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tokyo-tower/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>marunouchi</title>
-      <link>/tags/marunouchi/</link>
-      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/marunouchi/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>public art</title>
       <link>/tags/public-art/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/public-art/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>tokyo station</title>
-      <link>/tags/tokyo-station/</link>
-      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tokyo-station/</guid>
       <description></description>
       
     </item>
@@ -217,36 +297,6 @@
       <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/bars/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>chuo</title>
-      <link>/tags/chuo/</link>
-      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/chuo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>kakigaracho</title>
-      <link>/tags/kakigaracho/</link>
-      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/kakigaracho/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ningyocho</title>
-      <link>/tags/ningyocho/</link>
-      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ningyocho/</guid>
       <description></description>
       
     </item>
@@ -327,16 +377,6 @@
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/hakozakicho/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>nihonbashi</title>
-      <link>/tags/nihonbashi/</link>
-      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/nihonbashi/</guid>
       <description></description>
       
     </item>
@@ -437,16 +477,6 @@
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/taito/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>chiyoda</title>
-      <link>/tags/chiyoda/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/chiyoda/</guid>
       <description></description>
       
     </item>

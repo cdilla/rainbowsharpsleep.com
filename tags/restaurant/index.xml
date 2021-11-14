@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>restaurant on Tokyo, endless city</title>
+    <link>/tags/restaurant/</link>
+    <description>Recent content in restaurant on Tokyo, endless city</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/restaurant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ningyocho Nights</title>
+      <link>/posts/ningyocho-nights/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ningyocho-nights/</guid>
+      <description>This Chinese restaurant on a busy road looks and smells so inviting on a cool evening at the turn of the year. The whole road was lined with New Year lanterns at the time.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
